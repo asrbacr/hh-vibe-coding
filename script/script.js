@@ -20,7 +20,7 @@ document
 
       if (response.ok && data.token) {
         localStorage.setItem("token", data.token);
-        window.location.href = "weather.html";
+        window.location.href = "/hh-vibe-coding/weather.html";
       } else {
         document.getElementById("error-message").textContent =
           "Ошибка авторизации. Проверьте данные!";
