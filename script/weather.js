@@ -1,4 +1,4 @@
-const apiKey = API_KEY; // Укажите свой API-ключ OpenWeatherMap
+const apiKey = "8bc4955ccf15385ac316dd009d2f6a37";
 const city = "Moscow";
 
 const fetchWeather = async () => {
