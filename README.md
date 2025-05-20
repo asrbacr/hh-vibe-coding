@@ -16,8 +16,8 @@
 ### 1. **Клонирование проекта**
 
 ```bash
-git clone https://github.com/your-repository/weather-app.git
-cd weather-app
+git clone https://github.com/asrbacr/hh-vibe-coding.git
+cd hh-vibe-coding
 ```
 
 ### 2. Запуск локального сервера
